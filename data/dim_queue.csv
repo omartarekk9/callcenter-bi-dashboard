@@ -1,0 +1,5 @@
+queue_id,queue_name,avg_handle_sec
+1,Billing,300
+2,Technical Support,540
+3,Sales,240
+4,Complaints,480
